@@ -37,6 +37,15 @@
     font-size: 25px;
     font-style: italic;
 }
+.ab{
+    padding:10%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: honeydew;
+    width:100%;
+    font-size: 25px;
+    font-style: italic;
+}
 th, td {
     border: 1px solid black;
     color: black;
@@ -44,7 +53,7 @@ th, td {
 }
 table {
     border-spacing: 5px;
-    margin-left: -300px;
+    margin-left: -25%;
 }
 th {
     text-align: left;
